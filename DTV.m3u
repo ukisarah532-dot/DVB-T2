@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 ch-number="1" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a068/index.m3u8
+#EXTINF:-1 ch-number="2" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a069/index.m3u8
+#EXTINF:-1 ch-number="3" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06a/index.m3u8
+#EXTINF:-1 ch-number="4" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MENTARI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06b/index.m3u8
+#EXTINF:-1 ch-number="5" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",METRO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06c/index.m3u8
+#EXTINF:-1 ch-number="6" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNBC INDONESIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06d/index.m3u8
+#EXTINF:-1 ch-number="7" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNN INDONESIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06e/index.m3u8
+#EXTINF:-1 ch-number="8" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06f/index.m3u8
+#EXTINF:-1 ch-number="9" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",VTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06g/index.m3u8
+#EXTINF:-1 ch-number="10" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06h/index.m3u8
+#EXTINF:-1 ch-number="11" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06i/index.m3u8
+#EXTINF:-1 ch-number="12" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06j/index.m3u8
+#EXTINF:-1 ch-number="13" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06k/index.m3u8
+#EXTINF:-1 ch-number="14" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06l/index.m3u8
+#EXTINF:-1 ch-number="15" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",KOMPASTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06m/index.m3u8
+#EXTINF:-1 ch-number="16" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06n/index.m3u8
+#EXTINF:-1 ch-number="17" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06o/index.m3u8
+#EXTINF:-1 ch-number="18" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06p/index.m3u8
+#EXTINF:-1 ch-number="19" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06q/index.m3u8
+#EXTINF:-1 ch-number="20" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06r/index.m3u8
+#EXTINF:-1 ch-number="21" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI JAMBI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06s/index.m3u8
+#EXTINF:-1 ch-number="22" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",JAMBI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06t/index.m3u8
+#EXTINF:-1 ch-number="23" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06u/index.m3u8
+#EXTINF:-1 ch-number="24" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; SM-C900Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.180 Mobile Safari/537.36
+http://103.66.62.83:8000/play/a06v/index.m3u8
